@@ -1,6 +1,7 @@
 // Set constraints for the video stream
 // environment = rear camera, user = front camera
-var constraints = { video: { facingMode: "environment" {exact: mode}}, audio: false };
+// Use {exact: mode} to force a specific camera to be used
+var constraints = { video: { facingMode: "environment" }, audio: false };
 
 // Define constants
 const 	cameraView = document.querySelector("#camera--view"),
