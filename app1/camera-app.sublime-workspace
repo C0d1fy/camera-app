@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is_i",
+				"is_int"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scanner.html",
+			"settings":
+			{
+				"buffer_size": 745,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 768,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gcas520/Sites/studentscan/scanner/scanner.html",
+		"/Users/gcas520/Sites/studentscan/scanner/style.css",
+		"/Users/gcas520/Sites/studentscan/scanner/app.js",
+		"/Users/gcas520/Sites/studentscan/downloader.php",
+		"/Users/gcas520/Sites/sit.test/helloworld.php",
+		"/Users/gcas520/Sites/sit.test/index.html",
+		"/Users/gcas520/Sites/sit.test/assoc_arrays.php",
+		"/Users/gcas520/Sites/sit.test/sit.test.sublime-project",
+		"/Users/gcas520/Documents/Machine Notes.txt",
+		"/Users/gcas520/UoA/paul/Paul logs.txt",
+		"/Users/gcas520/Sites/sit.test/integers.php",
+		"/Users/gcas520/Sites/sit.test/arrays.php",
+		"/Users/gcas520/Sites/sit.test/floats.php",
+		"/Users/gcas520/Documents/UoA/nzseis.phy.auckland.ac.nz/scripts/getimages.sh",
+		"/Users/gcas520/Documents/UoA/nzseis.phy.auckland.ac.nz/scripts/pygetimages.sh",
+		"/Users/gcas520/Documents/UoA/nzseis.phy.auckland.ac.nz/scripts/downloadeqs.sh",
+		"/Users/gcas520/Documents/UoA/nzseis/scripts/pushj.sh",
+		"/Users/gcas520/Documents/UoA/nzseis/test/upload.config",
+		"/Users/gcas520/Documents/UoA/nzseis.phy.auckland.ac.nz/scripts/tidyup.sh",
+		"/Users/gcas520/Documents/UoA/nzseis/scripts/index.php",
+		"/Users/gcas520/Documents/UoA/EDC/keys/edcvpn.tlsauth",
+		"/Users/gcas520/Documents/UoA/EDC/keys/nzseis.key",
+		"/Users/gcas520/Documents/UoA/EDC/keys/nzseis.crt",
+		"/Users/gcas520/Documents/UoA/EDC/keys/ca.crt",
+		"/Users/gcas520/Desktop/cosmology site.txt",
+		"/Users/gcas520/Desktop/old.apache2.conf",
+		"/Users/gcas520/Documents/UoA/paul/Paul logs.txt",
+		"/Users/gcas520/Desktop/new.apache2.conf",
+		"/Users/gcas520/Documents/UoA/OpenVPN/Dom notes.txt",
+		"/Users/gcas520/Documents/UoA/OpenVPN/openvpn_ssh_key",
+		"/Users/gcas520/Desktop/Googles 350 Billion Haircut.txt",
+		"/usr/local/etc/php/5.6/php.ini"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scanner.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "camera-app.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
